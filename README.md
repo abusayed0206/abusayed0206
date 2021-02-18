@@ -1,5 +1,6 @@
+<div align="center"
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abusayed0206&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 <p align="center">
   <a style="text-decoration:none" href="mailto:abusayed0206@gmail.com">
