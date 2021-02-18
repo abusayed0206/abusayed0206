@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abusayed0206)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
