@@ -26,12 +26,9 @@ I actively maintain several platforms and applications with a growing, dedicated
 - **Microsoft Store:** 4,000+ active users across my Windows applications.
 - **Web Properties:** Cloudflare Account Analytics (Last 30 days)
 
-  | Metric         | Value    |
-  | -------------- | -------- |
-  | **Requests**   | 2.66M    |
-  | **Bandwidth**  | 57.43 GB |
-  | **Visits**     | 426.54k  |
-  | **Page Views** | 462.83k  |
+  | Requests | Bandwidth | Visits | Page Views |
+  |----------|-----------|--------|------------|
+  | 2.66M | 57.43 GB | 426.54k | 462.83k |
 
   _Note: Only 10-20% of requests are from legitimate human browsing; the rest are bots, AI agent crawlers, and scrapers. (Last checked: 2026-07-24)._
 
