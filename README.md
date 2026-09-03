@@ -112,6 +112,7 @@ I actively maintain several platforms and applications with a growing, dedicated
 | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | **Digitalized Bangla Films** | A data project to add and update old Bangla films on IMDb and TMDB, preserving Bengali cinema history digitally.                           | [View Repository](https://github.com/abusayed0206/banglafilm) |
 | **Bangla Rust Crate**        | A Rust crate for Bangla date formatting, calendar calculations, number conversion, currency formatting, and Bangladeshi address utilities. | [View Crate](https://crates.io/crates/bangla)                 |
+| **Codes & Regulations MCP**  | Model Context Protocol (MCP) server providing AI agents with search and retrieval tools for Bangladesh building codes and regulations.     | [View MCP Server](https://docs.sayed.app/mcp)                 |
 
 ## User Reviews
 
