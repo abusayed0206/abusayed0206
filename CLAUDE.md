@@ -15,9 +15,9 @@ This is a **GitHub profile repository** — the repo name (`abusayed0206`) match
 
 ## README structure
 
-1. **Header** — name, degree tagline, one-line specialization, links to `sayed.page` (full academic CV) and `sayed.app` (full project catalog).
+1. **Header** — name, degree tagline, one-line specialization, links to `sayed.dev` (full academic CV) and `sayed.app` (full project catalog).
 2. **Jump to** — anchor nav; keep in sync whenever a `##` heading is added, renamed, or removed.
-3. **Civil & Structural Engineering Background** — Education, Research Interests, Notable Academic Work, Experience, Certifications, Engineering Skills. A summary, not the full CV — `sayed.page` is the source of truth for detail.
+3. **Civil & Structural Engineering Background** — Education, Research Interests, Notable Academic Work, Experience, Certifications, Engineering Skills. A summary, not the full CV — `sayed.dev` is the source of truth for detail.
 4. **Project Portfolio & Statistics** — Microsoft Store user count and a Cloudflare traffic snapshot, followed by three tables: **Windows Applications**, **Web Applications & Extensions**, **Other Projects**.
 5. **User Reviews** — short testimonials, each attributed with a name/source and date.
 6. **Contact Information** — split into "Reply Expected (Two-Way)" (email, Signal, WhatsApp), "Receiver Only" (app/product issue inbox), and "Professional Profiles" (LinkedIn, ORCID, ResearchGate, Kaggle).
@@ -27,8 +27,8 @@ This is a **GitHub profile repository** — the repo name (`abusayed0206`) match
 
 - **Tables** (Windows Applications / Web Applications & Extensions / Other Projects) use columns `Name | Description | Link`. Match the existing badge/link style per table (Microsoft Store badge for Windows apps, `[Visit Web App]` for web apps, `[View Repository]`/`[View Crate]` for Other Projects). Append new rows at the bottom — table order is roughly chronological, don't re-sort existing rows.
 - **Cross-verify before adding anything** — fetch the actual target URL and confirm it resolves to the correct product; base descriptions on what the live listing says today, not on stale or user-supplied claims; don't invent numbers (users, downloads, etc.) that aren't confirmed by the source.
-- **Store listings and `sayed.page` sit behind Cloudflare bot protection** — plain `WebFetch` only returns a bare `<title>` or a 403. Use `curl` with a real browser `User-Agent` instead: for Store listings, read the `<meta name="description">`/`og:description` tags from the raw HTML; for `sayed.page`, request the markdown export (e.g. `https://sayed.page/index.md`, or `Accept: text/markdown` on other routes) for the structured CV content.
-- **`sayed.page` is authoritative** for education, research, publications, academic projects, certifications, and engineering skills — cross-check any civil-engineering claim against it rather than inventing or guessing. Keep the README's Civil & Structural Engineering Background section a concise summary that links out to `sayed.blog` write-ups and `public.sayed.page` report PDFs, not a full CV dump.
+- **Store listings and `sayed.dev` sit behind Cloudflare bot protection** — plain `WebFetch` only returns a bare `<title>` or a 403. Use `curl` with a real browser `User-Agent` instead: for Store listings, read the `<meta name="description">`/`og:description` tags from the raw HTML; for `sayed.dev`, request the markdown export (e.g. `https://sayed.dev/index.md`, or `Accept: text/markdown` on other routes) for the structured CV content.
+- **`sayed.dev` is authoritative** for education, research, publications, academic projects, certifications, and engineering skills — cross-check any civil-engineering claim against it rather than inventing or guessing. Keep the README's Civil & Structural Engineering Background section a concise summary that links out to `sayed.blog` write-ups and `public.sayed.page` report PDFs, not a full CV dump.
 - **GitHub repo metadata** can be checked without auth via `curl https://api.github.com/repos/abusayed0206/<repo>` (or `.../users/abusayed0206/repos`) — use this to confirm a repo exists and what it's about before linking it in Other Projects.
 - **Testimonials from private channels** (email, DM, etc.) must have the sender's personal identifying info obfuscated before publishing (e.g. mask an email as `ah********83@gmail.com`) — never paste a raw private address into the public README.
 - **Footer date**: bump `_Last Updated: <Month Day, Year>_` whenever a substantive content change is made.

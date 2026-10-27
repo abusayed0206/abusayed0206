@@ -4,7 +4,7 @@
 
 Specializing in Structural Engineering and seismic-related research. Combining engineering knowledge with programming skills to develop practical solutions and contribute to research-driven projects.
 
-_For detailed academic and professional information, visit [sayed.page](https://sayed.page/)._
+_For detailed academic and professional information, visit [sayed.dev](https://sayed.dev/)._
 _Visit [sayed.app](https://sayed.app/) for the full catalog of my projects with detailed information._
 
 ---
@@ -17,7 +17,7 @@ _Visit [sayed.app](https://sayed.app/) for the full catalog of my projects with 
 
 ## Civil & Structural Engineering Background
 
-_Full academic CV, publications, and project reports: [sayed.page](https://sayed.page/)._
+_Full academic CV, publications, and project reports: [sayed.dev](https://sayed.dev/)._
 
 ### Education
 
